@@ -15,4 +15,4 @@
 1. Установить зависимости:\
     pip install -r requirements.txt
 2. Выполнить команду:\
-python manage.py runserver
+python recipes/manage.py runserver
